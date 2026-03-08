@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "usuario_id": 42,
+  "recurso_id": 5,
+  "fecha_inicio": "2026-03-15",
+  "fecha_fin": "2026-03-17",
+  "num_personas": 4,
+  "estado": "pendiente",
+  "creado_en": "2026-02-13T10:30:00Z"
+}
